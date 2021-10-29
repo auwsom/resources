@@ -1,11 +1,18 @@
-https://auwsom.github.io/resources/
 # Header 1
-## Header 2
+## Header 23
 
+# A collapsible section with markdown
 <details>
   <summary>
-    Click to expand!
+  Heading 1
   </summary>
+  ## Heading\
+  <details>
+    <summary>
+    Heading 1
+    </summary>
+    ## Heading\
+  </details>
 </details>
 
 
