@@ -1,14 +1,11 @@
 # Header 1
 ## Header 23
-
 # A collapsible section with markdown
-<details>
-<summary>
+<details><summary>
 Heading 1
-</summary>
-## Heading\1
-  
-+    &ensp;<details><summary>Heading</summary># Heading\2 </details>
-
+</summary>  
++&ensp;<details><summary>Heading1</summary>sub1
++&ensp;<details><summary>Heading2</summary>sub2
 </details>
-
+</details>
+</details>
