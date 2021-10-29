@@ -8,8 +8,8 @@ Heading 1
 </summary>
 ## Heading\1
 <details>
-<summary>
-  &ensp;Heading 1
+&ensp;<summary>
+  Heading 1
   </summary>
   &ensp;# Heading\2
   </details>
