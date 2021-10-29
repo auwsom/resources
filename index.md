@@ -3,15 +3,15 @@
 
 # A collapsible section with markdown
 <details>
-  <summary>
-  Heading 1
-  </summary>
-  ## Heading\
+<summary>
+Heading 1
+</summary>
+  ## Heading\1
   <details>
     <summary>
     Heading 1
     </summary>
-    ## Heading\
+    ## Heading\2
   </details>
 </details>
 
