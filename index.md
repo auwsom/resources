@@ -8,11 +8,7 @@ Heading 1
 </summary>
 ## Heading\1
   
-+    &ensp;<details>
-  <summary>
-  Heading 1
-  </summary>
-  &ensp;# Heading\2
++    &ensp;<details>  <summary>  Heading 1  </summary>  &ensp;# Heading\2
   
 + test
 + 1
