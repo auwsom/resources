@@ -8,18 +8,19 @@ Heading 1
 </summary>
 ## Heading\1
   
-*&ensp;<details>
++    &ensp;<details>
   <summary>
   Heading 1
   </summary>
   &ensp;# Heading\2
-  </details>
-
-</details>
-
+  
 + test
 + 1
   + 2
 
    test
      tab space
+  </details>
+
+</details>
+
