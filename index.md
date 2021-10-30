@@ -3,7 +3,9 @@
       - html? 
        - in jekyll?
        - 
-<details>nosummary<blockquote>
+<details><summary>
+Hello
+<blockquote>
 <details><summary>
 World
 </summary><blockquote>
