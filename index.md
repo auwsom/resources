@@ -3,9 +3,10 @@
       - html? 
        - in jekyll?
        - 
-<details><summary>Hello</summary><blockquote>
-  <details><summary>World</summary><blockquote>
-    :smile:
+<details><summary>Hello</summary><blockquote>text1
+  text2
+  <details>text4<summary>World</summary><blockquote>
+    :smile: text3
   </blockquote></details>
 </blockquote></details>
 
