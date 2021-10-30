@@ -5,13 +5,7 @@
        - 
 <details><summary>Hello</summary><blockquote>text1
   text2
-  <details>text4<summary>World</summary><blockquote>
-    :smile: text3
-  </blockquote></details>
+<details>text4<summary>World</summary><blockquote>
+:smile: text3
 </blockquote></details>
-
-<details><summary>Hello</summary>text1
-  <details><summary>World</summary>text2<blockquote>
-    :smile:
-  </details>
 </blockquote></details>
