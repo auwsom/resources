@@ -17,12 +17,11 @@ Hello
     :smile:
 </summary><blockquote>
 </blockquote></details>
+</blockquote></details>
   
 <details><summary>
   World2
 </summary><blockquote>
-</blockquote></details>
-</blockquote></details>
 </blockquote></details>
   
 <details><summary>
