@@ -1,7 +1,7 @@
-Markdown does have collapsable sections, but not nested, and uses tag syntax ends which breaks easy additions.
-    Four spaces does indent in Markdown, so must need to render collapsing/folding with: 
-        html? 
-        in jekyll?
+-Markdown does have collapsable sections, but not nested, and uses tag syntax needing ends which breaks easy additions.
+    -Four spaces does indent in Markdown, so must need to render collapsing/folding with: 
+        -html? 
+        -in jekyll?
 
 
 <details>
