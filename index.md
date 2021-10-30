@@ -2,13 +2,13 @@
   - Two spaces does indent in Markdown, so must need to render collapsing/folding with: 
       - html? 
        - in jekyll?
-       - 
+       
 <details><summary>
 Hello
-<blockquote>
+</summary><blockquote>
+  
 <details><summary>
 World
 </summary><blockquote>
-:smile: text3
-</blockquote></details>
+  
 </blockquote></details>
