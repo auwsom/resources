@@ -3,7 +3,14 @@
     - Not collapsible, use below.
   - need to have script to interpret regular indent structure, and add tags. 
     - easy enough for all nested, but need algo to close when returning.. add end tags appropriately
-    - 
+
+Using LittleOutliner for realtime editablity
+
+Two spaces:
+adfvadfv
+  adfvadfv
+    svadfv
+  dfvbadfb
        
 <details><summary>
 Hello
@@ -31,6 +38,8 @@ Hello
 Hello2
 </summary><blockquote>
 </blockquote></details>
+
+Html for collapsible button
 
  <button type="button" class="collapsible">Open Collapsible</button>
 <div class="content">
