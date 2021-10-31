@@ -6,7 +6,7 @@
 
 # Now using LittleOutliner for realtime editablity
 
-##Two spaces without dash or asterisk:
+## Two spaces without dash or asterisk:
 adfvadfv
   adfvadfv
     svadfv
@@ -39,7 +39,7 @@ Hello2
 </summary><blockquote>
 </blockquote></details>
 
-##Html for collapsible button:
+## Html for collapsible button:
 
  <button type="button" class="collapsible">Open Collapsible</button>
 <div class="content">
